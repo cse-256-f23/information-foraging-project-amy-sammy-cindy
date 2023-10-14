@@ -12,6 +12,6 @@ export function collapsible() {
         content.style.display = "block";
         }
     });
-    }
+    }  
 }
   
