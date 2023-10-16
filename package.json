@@ -16,6 +16,7 @@
   "author": "Riley McCuen",
   "license": "ISC",
   "dependencies": {
+    "@types/whatwg-url": "^11.0.1",
     "aws-sdk": "^2.596.0"
   },
   "devDependencies": {
