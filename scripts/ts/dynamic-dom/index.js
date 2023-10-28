@@ -7,3 +7,4 @@ export function sticky() {
     header.classList.remove("sticky");
     }
 }
+
