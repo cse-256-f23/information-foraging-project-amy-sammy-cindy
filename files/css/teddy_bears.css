@@ -22,7 +22,10 @@
     line-height: 23px;
     margin-bottom: 1em;
 }
-
+.news{
+  font-size: 90%;
+  text-emphasis: bold;
+}
 #small-image-collection {
     overflow: auto;
     clear: both;
